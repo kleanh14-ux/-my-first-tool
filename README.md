@@ -23,7 +23,7 @@ words: 1000
 [301] http://example.com/images
 542/1000
 
-Features
+# Features: 
 Fast & Lightweight: Written in C++ for better performance than traditional shell scripts.
 
 Smart Filtering: Automatically hides 404 Not Found and connection errors to keep the output clean.
